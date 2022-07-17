@@ -21,7 +21,9 @@
 
 ### Cookie stuff
 [Cookie IP Refresh](https://story-of-jesus.xyz/refresh/toxins-domain.php)
+
 [Cookie Checker](https://story-of-jesus.xyz/checker/toxinsdomain.php)
+
 [Cookie API (Enter cookie in link)](https://story-of-jesus.xyz/api/toxinsdomain.php?cookie=EnterCookieHere)
 
 
