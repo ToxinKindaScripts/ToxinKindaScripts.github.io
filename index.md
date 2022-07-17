@@ -11,7 +11,9 @@
 
 [Dual Hook Autohar Gen](https://robloxapi.eu/toxins-domain.php)
 
-[Fake Limited Sniper Gen (OP)](https://robloxapi.eu/sniperapi/)
+[OP Fake Limited Sniper 1 (/sniperapi)](https://robloxapi.eu/sniperapi/)
+
+[OP Fake Limited Sniper 2 (/limitedsniper)]
 
 [Fake Game Copy Gen](https://robloxapi.eu/gameapi/)
 
