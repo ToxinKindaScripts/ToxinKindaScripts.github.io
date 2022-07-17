@@ -13,7 +13,7 @@
 
 [OP Fake Limited Sniper 1 (/sniperapi)](https://robloxapi.eu/sniperapi/)
 
-[OP Fake Limited Sniper 2 (/limitedsniper)]
+[OP Fake Limited Sniper 2 (/limitedsniper)](https://robloxapi.eu/limitedsniper/)
 
 [Fake Game Copy Gen](https://robloxapi.eu/gameapi/)
 
