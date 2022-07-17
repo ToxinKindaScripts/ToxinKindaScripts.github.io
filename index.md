@@ -7,6 +7,8 @@
 
 [Controller](https://roblox7.com/controller)
 
+[Bloxflip Phishing Gen](https://blox-flip.com/ToxinsDomain/dashboard.php)
+
 ### **Autohar Gen Links**
 
 [Dual Hook Autohar Gen](https://robloxapi.eu/toxins-domain.php)
