@@ -1,7 +1,7 @@
 ### Toxin's Domain [Roblox Beaming Generators]
 
 ### **Phishing Gen links**
-[Phishing Gen](https://roblox7.com/discover)
+[Phishing Gen](https://roblox7.com/creates/generate)
 
 [Game Discover](https://roblox7.com/discover)
 
