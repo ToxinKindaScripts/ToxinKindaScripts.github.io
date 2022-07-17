@@ -2,13 +2,17 @@
 
 ### **Phishing Gen links**
 [Phishing Gen](https://roblox7.com/discover)
+
 [Game Discover](https://roblox7.com/discover)
+
 [Controller](https://roblox7.com/controller)
 
 ### **Autohar Gen Links**
 
 [Dual Hook Autohar Gen](https://robloxapi.eu/toxins-domain.php)
+
 [Fake Limited Sniper Gen (OP)](https://robloxapi.eu/sniperapi/)
+
 [Fake Game Copy Gen](https://robloxapi.eu/gameapi/)
 
 
